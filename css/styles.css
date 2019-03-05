@@ -1,3 +1,13 @@
+
+div.contrast {
+  background-color: rgb(252,137,31);
+  color: rgb(255,255,255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 body {
 	color: rgb(65,75,86);
   font-family: arial;
@@ -11,7 +21,7 @@ div {
 
 h1, h2 {
   text-align: center;
-} 
+}
 
 h1 {
   font-size: 5em;
@@ -51,17 +61,9 @@ li#lower {
 }
 
 li#lowest {
-  margin-top: 14%;
+  margin-top: 13%;
 }
 
-div.contrast {
-  background-color: rgb(0,0,0);
-  color: rgb(255,255,255);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
 
 ul {
   list-style: none;
