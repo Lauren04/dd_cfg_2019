@@ -1,0 +1,29 @@
+h1 {color: Purple;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+h2 {display:flex;
+    margin-left: auto;
+    margin-right: auto;
+  width: 20%
+}
+
+div{
+    min-height:10vh;
+    width: 100vw;
+    background-color: orange;
+  }
+
+img{
+    display: flex;
+    border-radius: 1300px;
+    min-height: 30%;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto
+  }
+
+p {color: rgb(20, 124, 18);
+  font-size: 20px;
+}
