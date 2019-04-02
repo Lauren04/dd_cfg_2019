@@ -1,0 +1,91 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+nav {
+  color: rgb(1,153,120);
+}
+
+h1  {
+  color: rgb(255,120,79);
+  font-family: Cookie,cursive;
+  font-size: 5em;
+}
+main
+p {
+  font-family: Roboto Condensed, sans-serif;
+  text-align: center;
+  font-size: 1.5em;
+  width: 85%;
+  margin: 0 5vw 5vh 5vw;
+}
+
+h2 {
+  text-align: center;
+}
+h2:hover {
+  font-size: 2.2em;
+  transition: 0.6s ease;
+}
+h2 {
+  color: rgb(1, 153, 120);
+  font-family: Cookie,cursive;
+  font-size: 3em;
+}
+
+body
+img {
+  display: flex;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 130px;
+}
+
+p {
+  width: 40%;
+  margin: 0 10vw 10vh 10vw;
+  font-size: 2em;
+}
+
+a {
+  color: rgb(0,0,0);
+}
+
+ol {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 10%;
+  font-size: 3em;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+li#lower {
+  margin-top: 7%;
+}
+img {
+  display: flex;
+  width: 300px;
+}
+li#lowest {
+  margin-top: 20%;
+}
+
+
+ul {
+  list-style: none;
+  display: flex;
+}
+
+li {
+  margin: 0 20px;
+  transition: 0.6s ease;
+}
+/* Getting snazzy... */
+li:hover {
+  font-size: 1.2em;
+  transition: 0.6s ease;
+}
